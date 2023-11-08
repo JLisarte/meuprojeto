@@ -11,7 +11,7 @@ Projeto de uma tela inicial de um site de moveis. <br/>
 
 <p align="center">
   <img alt="projeto formulário" src="./imagens/imgProjeto.png" width="100%">
-  <a href="https://jlisarte.github.io/projeto_sitemoveis/" target="_blank">https://jlisarte.github.io/projeto/</a>
+  <a href="https://jlisarte.github.io/projeto_sitemoveis/" target="_blank">https://jlisarte.github.io/projeto_sitemoveis/</a>
 </p>
 
 ## 🚀 Tecnologias
