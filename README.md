@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="img Shadowkhan" src="./imgens/king_Shadowkhan.png" width="100">
+  <img alt="img Shadowkhan" src="./imagens/king_Shadowkhan.png" width="100">
 </p>
 
 <h1 align="center">Primeiro Projeto do Explorer - Rocketseat</h1>
@@ -10,8 +10,8 @@ Projeto de uma tela inicial de um site de moveis. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto formulário" src="./imgens/imgProjeto.png" width="100%">
-  <a href="https://jlisarte.github.io/projeto/" target="_blank">https://jlisarte.github.io/projeto/</a>
+  <img alt="projeto formulário" src="./imagens/imgProjeto.png" width="100%">
+  <a href="https://jlisarte.github.io/projeto_sitemoveis/" target="_blank">https://jlisarte.github.io/projeto/</a>
 </p>
 
 ## 🚀 Tecnologias
